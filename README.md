@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CleitonDaniluski&show_icons=true&count_private=true&hide_border=true&title_color=882599&icon_color=882599&text_color=c9d1d9&bg_color=0d1117" alt="Cleiton Daniluski github stats" /> 
-  <img width="41%" height="195px" src="" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonDaniluski&layout=compact&hide_border=true&title_color=882599&text_color=882599&bg_color=0d1117" />
 </div>
 
   
