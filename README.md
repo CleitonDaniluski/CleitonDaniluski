@@ -6,13 +6,6 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
- 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitondaniluski&layout=compact&hide_border=true&title_color=882599&text_color=882599&bg_color=0d1117" />
  </picture>
 </div>
