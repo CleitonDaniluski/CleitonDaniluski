@@ -4,8 +4,8 @@
 
 <div align="center">  
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cleitondaniluski&show_icons=true&theme=synthwave"
-  />
+    srcset="https://github-readme-stats.vercel.app/api?username=cleitondaniluski&show_icons=true&theme=synthwave"/>
+   
  <img src="https://github-readme-stats.vercel.app/api?username=cleitondaniluski&show_icons=true"/>
 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitondaniluski&layout=compact&hide_border=true&title_color=882599&text_color=882598&bg_color=0d1117" />
