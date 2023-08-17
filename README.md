@@ -5,9 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cleitondaniluski&show_icons=true&count_private=true&hide_border=true&title_color=882598&icon_color=882599&text_color=c9d1d9&bg_color=0d1117" alt="Cleiton Daniluski github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitondaniluski&layout=compact&hide_border=true&title_color=882599&text_color=882599&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitondaniluski&layout=compact&hide_border=true&title_color=882599&text_color=882598&bg_color=0d1117" />
 </div>
-
  ### Main skills:
   
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
