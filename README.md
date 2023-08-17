@@ -6,12 +6,12 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=cleitondaniluski&show_icons=true&theme=synthwave"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=cleitondaniluski&show_icons=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=cleitondaniluski&show_icons=true"/>
+
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonDaniluski&layout=compact&hide_border=true&title_color=882599&text_color=882598&bg_color=0d1117" />
+</div>
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitondaniluski&layout=donut-vertical)](https://github.com/cleitondaniluski-readme-stats)
-
-  
  ### Main skills:
   
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
