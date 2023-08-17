@@ -6,7 +6,7 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=882599&text_color=882599&bg_color=0d1117"
   />
 
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
